@@ -32,7 +32,7 @@ The graph below demonstrates how the ML model isolated high-value, high-risk tra
 - **Efficiency:** The Isolation Forest method reduced the "investigation pool" by 93% compared to standard Z-Score filtering, identifying 14 actual fraud cases in the research sample.
 
 ## Detailed Research
-For a deep dive into the methodology, algorithm precision, and model selection logic, please refer to the [RESEARCH_NOTES.md](./report/RESEARCH_NOTES.md) file.
+For a deep dive into the methodology, algorithm precision, and model selection logic, please refer to the [RESEARCH_NOTES.md](./reports/RESEARCH_NOTES.md) file.
 
 ---
 **Contact:** devkotaaayushma08@gmail.com
