@@ -1,6 +1,6 @@
 # R&D Technical Report: Comparative Study on Credit Risk Anomaly Detection
 **Author:** Ayushma Devkota  
-**Date:** May 2024  
+**Date:** Jan 2026 
 **Project Type:** Internal R&D Prototype  
 **Domain:** Fintech / Credit Risk Assessment
 
