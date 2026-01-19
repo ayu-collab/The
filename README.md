@@ -35,5 +35,5 @@ The graph below demonstrates how the ML model isolated high-value, high-risk tra
 For a deep dive into the methodology, algorithm precision, and model selection logic, please refer to the [RESEARCH_NOTES.md](./report/RESEARCH_NOTES.md) file.
 
 ---
-**Contact:** Ayushma Devkota  
-**Target Role:** Data Intern - R&D at eXtensoData
+**Contact:** devkotaaayushma08@gmail.com
+
